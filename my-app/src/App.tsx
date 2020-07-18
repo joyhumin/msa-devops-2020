@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          MSA 2020
+          MSA 2020 DevOps
         </p>
         <a
           className="App-link"
