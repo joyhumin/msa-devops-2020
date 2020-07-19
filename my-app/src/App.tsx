@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './logo_mask.svg';
 import './App.css';
 
 function App() {
@@ -8,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          MSA 2020 DevOps
+          PLEASE WEAR THE MASK
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.health.govt.nz"
           target="_blank"
           rel="noopener noreferrer"
         >
-          MSA DevOps 2020
+          Ministry of Health for more information.
         </a>
       </header>
     </div>
