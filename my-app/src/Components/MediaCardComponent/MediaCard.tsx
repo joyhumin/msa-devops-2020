@@ -22,7 +22,7 @@ function MediaCard(props: IMediaCardProps) {
                     />
                     <CardContent>
                         <Typography variant="body2" color="textSecondary" component="p" className="MediaCardDescription">
-                            <p>This photo has been downloaded {props.Downloads} times. </p>
+                            This photo has been downloaded {props.Downloads} times.
                         </Typography>
                     </CardContent>
                 </CardActionArea>
